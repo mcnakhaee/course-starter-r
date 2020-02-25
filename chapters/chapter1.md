@@ -1,5 +1,5 @@
 ---
-title: 'Chapter 1: Getting started'
+title: 'فصل اول: مقدمه ای بر R'
 description:
   'This chapter will teach you about many cool things and introduce you to the
   most important concepts of the course.'
@@ -18,7 +18,7 @@ id: 1
 
 <exercise id="2" title="Getting Started">
 
-Let's ask some questions about the slides. Whats the correct answer?
+اولین سوال من در این جا این است که چرا
 
 <choice>
 <opt text="Answer one">
